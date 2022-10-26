@@ -1,0 +1,63 @@
+#---------------------------#
+#       Contribution        #
+#---------------------------#
+
+
+# pro-TBB
+[submodule "pro-TBB_CMake"]
+	path = Study/programming/parallel_programming/pro-TBB_CMake
+	url = https://github.com/Wontae-Lee/pro-TBB_CMake.git
+
+
+#---------------------------#
+#       Developement        #
+#---------------------------#
+
+
+# openFoam simulations
+
+# piezoelectricPipe
+[submodule "piezoelectricPipe"]
+	path = Developement/OpenFoam_simulations/piezoelectricPipe
+	url = https://github.com/Wontae-Lee/piezoelectricPipe.git
+# stratisformClouds
+[submodule "stratisformClouds"]
+	path = Developement/OpenFoam_simulations/stratisformClouds
+	url = https://github.com/Wontae-Lee/stratisformClouds.git
+# windTurbine
+[submodule "windTurbine"]
+	path = Developement/OpenFoam_simulations/windTurbine
+	url = https://github.com/Wontae-Lee/windTurbine.git
+# ReverseRollCoating
+[submodule "ReverseRollCoating"]
+	path = Developement/OpenFoam_simulations/ReverseRollCoating
+	url = https://github.com/Wontae-Lee/ReverseRollCoating.git
+
+
+# simulation engines
+
+# LSTME_JET_FRAMEWORK
+[submodule "LSTME_JET_FRAMEWORK"]
+	path = Developement/simulation_engines/LSTME_JET_FRAMEWORK
+	url = https://github.com/Wontae-Lee/LSTME_JET_FRAMEWORK.git
+# masters_thesis
+[submodule "masters_thesis"]
+	path = Developement/simulation_engines/masters_thesis
+	url = https://github.com/Wontae-Lee/masters_thesis.git
+
+
+
+#---------------------------#
+#           Study           #
+#---------------------------#
+
+
+# cmake-cooknote
+[submodule "cmake-cooknote"]
+	path = Developement/simulation_engines/cmake-cooknote
+	url = https://github.com/Wontae-Lee/cmake-cooknote.git
+
+
+
+
+
