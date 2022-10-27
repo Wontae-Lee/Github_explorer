@@ -5,7 +5,7 @@
 # 1. Simulations
 
 ## 1) openFoam
-- [piezoelectricPipe](https://github.com/Wontae-Lee/piezoelectricPipe.git)
+- [piezoelectricPipe](https://github.com/Wontae-Lee/piezoelectricPipe.git) (Private)
 - [stratisformClouds](https://github.com/Wontae-Lee/stratisformClouds.git)
 - [windTurbine](https://github.com/Wontae-Lee/windTurbine.git)
 - [ReverseRollCoating](https://github.com/Wontae-Lee/ReverseRollCoating.git)
@@ -22,11 +22,11 @@
 <br><br><br><br>
 
 
-# 3. Study
+# 3. Study (Private)
 
 ## 1) Programming
 - [CMake](https://github.com/Wontae-Lee/cmake-cooknote.git)
-- [TBB]()
+- [TBB](https://github.com/Wontae-Lee/pro-TBB.git)
 <br><br><br><br>
 
 # Contributor
