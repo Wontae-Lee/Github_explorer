@@ -26,7 +26,7 @@
 
 ## 1) Programming
 - [CMake](https://github.com/Wontae-Lee/cmake-cooknote.git)
-- [TBB](https://github.com/Wontae-Lee/pro-TBB.git)
+- [TBB](https://github.com/Wontae-Lee/TBB.git)
 <br><br><br><br>
 
 # Contributor
