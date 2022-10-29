@@ -25,7 +25,7 @@
 # 3. Study (Private)
 
 ## 1) Programming
-- [CMake](https://github.com/Wontae-Lee/.git)
+- [CMake](https://github.com/Wontae-Lee/CMake.git)
 - [TBB](https://github.com/Wontae-Lee/TBB.git)
 <br><br><br><br>
 
